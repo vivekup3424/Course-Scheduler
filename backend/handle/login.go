@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/lesterfernandez/course-scheduler/backend/auth"
+	"github.com/vivekup3424/course-scheduler/backend/auth"
 	"golang.org/x/crypto/bcrypt"
 )
 
