@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/lesterfernandez/course-scheduler/backend/model"
+	"github.com/vivekup3424/course-scheduler/backend/model"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
