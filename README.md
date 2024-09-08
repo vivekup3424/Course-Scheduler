@@ -5,6 +5,7 @@ This project provides a seamless way for students to manage their courses, track
 ## Features
 
 - **Authentication**: Users can register and log in with password authentication. JWTs are used for authorization and Bcrypt is used for password hashing.
+- **In-house database and caching** - Redis is Used for storing database in a memory optimized format along with eventual state consitency from server.
 - **Course Selection**: Students can easily add courses to their schedules, manage prerequisites, and submit their course choices through the TypeScript and React.js responsive frontend.
 - **Smart Course Ordering**: The Go backend turns the user's schedule into a graph and runs a topological sort to find an adequate course ordering.
 - **Schedule Persistence**: Completed courses, their ordering, and progress status are stored in a PostgreSQL database.
