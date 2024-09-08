@@ -8,9 +8,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/lesterfernandez/course-scheduler/backend/auth"
 	"github.com/lesterfernandez/course-scheduler/backend/model"
 	"github.com/lesterfernandez/course-scheduler/backend/testdata"
+	"github.com/vivekup3424/course-scheduler/backend/auth"
 	"golang.org/x/crypto/bcrypt"
 )
 
