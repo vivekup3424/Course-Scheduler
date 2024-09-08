@@ -1,6 +1,7 @@
 # Course Scheduler
 
 This project provides a seamless way for students to manage their courses, track their progress, and plan their educational journey efficiently. The app is designed with user-friendly features and secure authentication to ensure a smooth experience.
+![Screenshot from 2024-09-08 23-44-02](https://github.com/user-attachments/assets/ff8167ca-083b-48aa-9080-32859f0bef5b)
 
 ## Features
 
