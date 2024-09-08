@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lesterfernandez/course-scheduler/backend/model"
+	"github.com/vivekup3424/course-scheduler/backend/model"
 	"golang.org/x/crypto/bcrypt"
 )
 

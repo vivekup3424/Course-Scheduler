@@ -1,7 +1,7 @@
 package data
 
 import (
-	"github.com/lesterfernandez/course-scheduler/backend/model"
+	"github.com/vivekup3424/course-scheduler/backend/model"
 	"gorm.io/gorm"
 )
 

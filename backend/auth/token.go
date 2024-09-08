@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/lesterfernandez/course-scheduler/backend/model"
+	"github.com/vivekup3424/course-scheduler/backend/model"
 )
 
 const jwtSecret = "totally not a secret string here..."
