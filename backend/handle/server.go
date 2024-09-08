@@ -3,7 +3,7 @@ package handle
 import (
 	"net/http"
 
-	"github.com/lesterfernandez/course-scheduler/backend/data"
+	"github.com/vivekup3424/course-scheduler/backend/data"
 )
 
 const (

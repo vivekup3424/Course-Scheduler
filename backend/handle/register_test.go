@@ -8,8 +8,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/lesterfernandez/course-scheduler/backend/model"
 	"github.com/vivekup3424/course-scheduler/backend/auth"
+	"github.com/vivekup3424/course-scheduler/backend/model"
 	"github.com/vivekup3424/course-scheduler/backend/testdata"
 	"golang.org/x/crypto/bcrypt"
 )
