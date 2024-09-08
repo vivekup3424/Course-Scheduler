@@ -1,0 +1,8 @@
+services:
+  course-scheduler-db:
+    image: postgres
+    restart: on-failure
+    environment:
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - 5001:5432

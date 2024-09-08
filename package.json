@@ -1,0 +1,20 @@
+{
+  "name": "course-scheduler",
+  "version": "1.0.0",
+  "workspaces": [
+    "client"
+  ],
+  "packageManager": "yarn@3.4.1",
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "pinst": "^3.0.0"
+  },
+  "scripts": {
+    "postinstall": "husky install",
+    "prepack": "pinst --disable",
+    "postpack": "pinst --enable"
+  },
+  "dependencies": {
+    "nanoid": "^4.0.2"
+  }
+}
